@@ -1,0 +1,13 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.emoji-producto {
+  font-size: 4rem;
+  line-height: 1;
+}
+
+.emoji-detalle {
+  font-size: 8rem;
+  line-height: 1;
+}
